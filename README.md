@@ -7,7 +7,7 @@ Python offers a native library to send emails- “SMTP lib”. “smtplib” cre
 
 1. First of all, “smtplib” library needs to be imported.
 
-2.After that, to create a session, we will be using its instance SMTP to encapsulate an SMTP connection.
+2. After that, to create a session, we will be using its instance SMTP to encapsulate an SMTP connection.
 s = smtplib.SMTP('smtp.gmail.com', 587)
 In this, you need to pass the first parameter of the server location and the second parameter of the port to use. For Gmail, we use port number 587.
 
