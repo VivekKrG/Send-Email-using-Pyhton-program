@@ -1,5 +1,6 @@
 # Send-Email-using-Pyhton-program
 This repository contains programming file and documentation to send email through python program.
+
 Reference: GeeksforGeeks
 # Introduction
 Python offers a native library to send emails- “SMTP lib”. “smtplib” creates a Simple Mail Transfer Protocol client session object which is used to send emails to any valid email id on the internet. Different websites use different port numbers.
